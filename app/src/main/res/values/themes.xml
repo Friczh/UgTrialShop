@@ -1,4 +1,4 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="Theme.HanamiApp" parent="android:Theme.Material.NoTitleBar" />
+    <style name="Theme.HanamiApp" parent="Theme.MaterialComponents.DayNight.NoActionBar" />
 </resources>
